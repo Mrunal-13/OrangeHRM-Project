@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.AddingAdminUserTest">
+      <class name="testcases.BuzzTest">
         <methods>
           <include name="setup"/>
-          <include name="addingAdminUserTest"/>
           <include name="close"/>
+          <include name="buzztest"/>
         </methods>
-      </class> <!-- testcases.AddingAdminUserTest -->
+      </class> <!-- testcases.BuzzTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

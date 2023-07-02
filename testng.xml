@@ -5,7 +5,9 @@
     <classes>
       <class name="testcases.Logintest"/>
       <class name="testcases.AddingAdminUserTest"/>
+      <class name="testcases.BuzzTest"/>
       <class name="testcases.ResetPasswordTest"/>
+      <class name="testcases.PunchingTest"/>
       <class name="testcases.VacancyTest"/>
     </classes>
   </test> <!-- Test -->
